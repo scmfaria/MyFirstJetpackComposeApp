@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Jetpack Compose UI</string>
+    <string name="form_title">Novo cadastro</string>
+    <string name="form_label_name">Digite seu nome</string>
+    <string name="form_label_email">Digite seu e-mail</string>
+    <string name="button_save">Salvar</string>
+    <string name="select_role">Selecione algo...</string>
+</resources>
